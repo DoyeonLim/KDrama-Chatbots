@@ -9,7 +9,7 @@ Check out Presentation at [Link](https://github.com/woog2ee/KDrama-Chatbots/blob
 - **Jungjoon Kim**: School of Applied Statistics in CAU   
 - **Gyungbin Park**: School of Computer Science & Engineering in CAU
 - **Haeun Lee**: School of Computer Science & Engineering in CAU
-- **Doyeon Lim**: School of Computer Science & Engineering in CAU
+- **🙋‍♀️Doyeon Lim**: School of Computer Science & Engineering in CAU
 
 ## 💡 Prototype
 More Details at [Link](https://github.com/woog2ee/KDrama-Chatbots/tree/main/models/KoGPT2)   
